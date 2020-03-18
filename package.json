@@ -1,0 +1,20 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "fbd0fcfc-506b-45f7-b74f-22d66b4effb4"
+	},
+	"author": "Steve Ruiz",
+	"dependencies": {
+		"@framer/benjamin.logo": "^1.7.0",
+		"@framer/fhur.hotjar": "^1.4.0",
+		"@framer/framer.base": "^1.0.0"
+	}
+}
