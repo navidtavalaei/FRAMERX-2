@@ -1,5 +1,6 @@
 # FRAMERX-2
 TUTORIAL
+https://www.framer.com/learn/lesson/build-an-interactive-list/
 
 FramerX Build an Interactive List
 
